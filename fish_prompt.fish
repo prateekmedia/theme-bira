@@ -46,6 +46,7 @@ function __ruby_version
     if [ $ruby_version != $ruby_global_version ] 
       echo -n (set_color red) ‹$ruby_version› (set_color normal)
     end
+  end
 end
 
 function fish_prompt
