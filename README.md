@@ -7,4 +7,4 @@ Display username, hostname, current path, ruby version(if needed) and git status
 ++ Added ~ [Tilt icon] instead of long adress of home From(Pull request #8 opened on May 7 by Lost-Melody)
 ++ Removed unnecessary prefix style
 
-![byroad theme](https://user-images.githubusercontent.com/41370460/95192643-22a95400-07f0-11eb-8b22-9980ea9f67a1.png)
+![byroad_ohmyfishtheme_mxlinux](https://user-images.githubusercontent.com/41370460/95195119-bb8d9e80-07f3-11eb-93c6-b643d0a9bb77.png)
