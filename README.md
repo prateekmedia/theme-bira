@@ -1,4 +1,4 @@
-## byroad
+## byroad - Simplify your Terminal! Inspired from MX linux bash terminal style
 
 A Fork of bira theme for oh-my-fish : https://github.com/oh-my-fish/theme-bira  
 Display username, hostname, current path, ruby version(if needed) and git status. Display the latest error status in the right prompt. 
