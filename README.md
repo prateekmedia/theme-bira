@@ -7,4 +7,4 @@ Contains traces of nuts and code from other Oh my fish themes.
 Display username, hostname, current path, ruby version(if exists) and git status. Display the latest error status in the right prompt. 
 ++ Added ~ [Tilt icon] instead of long adress of home From(Pull request #8 opened on May 7 by Lost-Melody)
 
-![byroad theme](https://cloud.githubusercontent.com/assets/1214238/5441541/8bd494dc-8491-11e4-9dbe-256b7e558eac.png)
+![byroad theme](https://user-images.githubusercontent.com/41370460/95192643-22a95400-07f0-11eb-8b22-9980ea9f67a1.png)
