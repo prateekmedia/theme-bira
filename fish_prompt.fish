@@ -1,5 +1,4 @@
-# Theme based on Bira theme from oh-my-zsh: https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/bira.zsh-theme
-# Some code stolen from oh-my-fish clearance theme: https://github.com/bpinto/oh-my-fish/blob/master/themes/clearance/
+# Theme is a fork of Bira theme : https://github.com/oh-my-fish/theme-bira
 
 function __user_host
   set -l content 
