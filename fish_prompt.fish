@@ -11,7 +11,7 @@ function __user_host
 end
 
 function __current_path
-  echo -n (set_color --bold blue) (pwd | sed "s\\$HOME\\~\\") (set_color normal)
+  echo -n (set_color --bold blue) (prompt_pwd) (set_color normal)
 end
 
 function _git_branch_name
