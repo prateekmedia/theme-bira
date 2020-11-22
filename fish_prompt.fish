@@ -36,22 +36,9 @@ function __git_status
   end
 end
 
-function __ruby_version  
-  # requires rbenv
-  if type "rbenv" > /dev/null 2>&1
-    set ruby_version (rbenv version-name)
-    set ruby_global_version (rbenv global)
-
-    if [ $ruby_version != $ruby_global_version ] 
-      echo -n (set_color red) ‹$ruby_version› (set_color normal)
-    end
-  end
-end
-
 function fish_prompt
   __user_host
   __current_path
-  __ruby_version
   __git_status
   echo -e ''
   echo (set_color --bold white)"\$ "(set_color normal)
