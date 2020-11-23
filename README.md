@@ -3,7 +3,7 @@
 
 A Fork of [theme-bira](https://github.com/oh-my-fish/theme-bira) for oh-my-fish  
 
-![byroad_ohmyfishtheme_mxlinux](https://user-images.githubusercontent.com/41370460/95195119-bb8d9e80-07f3-11eb-93c6-b643d0a9bb77.png)  
+![byroad_ohmyfishtheme_mxlinux](https://user-images.githubusercontent.com/41370460/99951757-9acdd800-2da4-11eb-9cd6-8fee6dbbadb6.jpg)  
 
 Display username, hostname, current path and git status.  
 Display the latest error status in the right prompt. 
