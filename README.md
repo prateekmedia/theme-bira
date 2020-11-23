@@ -15,5 +15,5 @@ Changelog:
 
 ## Installation ##
 ```
-$ omf install https://github.com/prateekmedia/theme-byroad
+$ omf install https://github.com/prateekmedia/theme-byroad && omf theme byroad
 ```
