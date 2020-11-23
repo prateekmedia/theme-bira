@@ -38,6 +38,7 @@ end
 
 function fish_prompt
   __user_host
+  echo (set_color --bold 0fc)":"(set_color normal)
   __current_path
   __git_status
   echo -e ''
