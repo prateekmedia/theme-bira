@@ -11,7 +11,7 @@ function __user_host
 end
 
 function __current_path
-  echo -sn (set_color normal) (prompt_pwd) (set_color normal)
+  echo -s (set_color normal) (prompt_pwd) (set_color normal)
 end
 
 function _git_branch_name
