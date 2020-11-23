@@ -11,7 +11,7 @@ function __user_host
 end
 
 function __current_path
-  echo -n (set_color --bold blue) (prompt_pwd) (set_color normal)
+  echo -sn (prompt_pwd)
 end
 
 function _git_branch_name
@@ -41,7 +41,7 @@ function fish_prompt
   __current_path
   __git_status
   echo -e ''
-  echo (set_color --bold white)"\$ "(set_color normal)
+  echo (set_color --bold 0fc)"\$ "(set_color normal)
 end
 
 function fish_right_prompt
