@@ -3,13 +3,14 @@
 
 A Fork of [theme-bira](https://github.com/oh-my-fish/theme-bira) for oh-my-fish  
 
-[![byroad_ohmyfishtheme_mxlinux](https://user-images.githubusercontent.com/41370460/99951757-9acdd800-2da4-11eb-9cd6-8fee6dbbadb6.jpg)](#installation)  
+[![byroad_ohmyfishtheme_mxlinux](https://user-images.githubusercontent.com/41370460/101329991-19903e00-3898-11eb-8908-98e54a1b7c23.png)](#installation)  
 
 Display username, hostname, current path and git status.  
 Display the latest error status in the right prompt. 
   
 Changelog:  
-- [x] Short path(~/p/r/m/CurrentFolder) using `prompt_pwd`  
+- [x] Short path(~/p/r/m/CurrentFolder) using `prompt_pwd`
+- [x] Add custom greeting
 - [x] Remove unnecessary prefix style  
 - [x] Remove Ruby support  
 
