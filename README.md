@@ -18,3 +18,5 @@ Changelog:
 ```
 $ omf install https://github.com/prateekmedia/theme-byroad && omf theme byroad
 ```
+
+Use ``` $ omf update ``` to update the theme
