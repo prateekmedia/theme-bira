@@ -1,4 +1,5 @@
 # Theme is a fork of Bira theme : https://github.com/oh-my-fish/theme-bira
+# © Prateek SU 2020
 
 function __user_host
   set -l content 
