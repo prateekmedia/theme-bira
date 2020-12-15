@@ -2,6 +2,7 @@
 ### Simplify your Terminal! Inspired from MX linux bash terminal style ###
 
 A Fork of [theme-bira](https://github.com/oh-my-fish/theme-bira) for oh-my-fish  
+***archieved cause I no longer use this theme***
 
 [![byroad_ohmyfishtheme_mxlinux](https://user-images.githubusercontent.com/41370460/101329991-19903e00-3898-11eb-8908-98e54a1b7c23.png)](#installation)  
 
